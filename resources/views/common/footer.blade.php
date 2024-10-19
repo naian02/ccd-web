@@ -60,7 +60,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <span><a href="#">Tarms & Condition</a></span>
-                    <span>&copy; 2024 Creative Canvas Designing </span>
+                    <span>&copy; 2024 Creative Canvas Designing Agency </span>
                 </div>
             </div>
         </div>

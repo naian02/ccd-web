@@ -138,12 +138,14 @@
                         </li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
+                    <!--
                     <ul class="nav navbar-nav navbar-right hidden-xs">
                         <li class="top-cart">
                             <i class="fa fa-shopping-bag"></i>
                             <a href="cart.html" class="top-amount">$0.00</a>
                         </li>
                     </ul>
+                    -->
                 </div>
             </div>
         </nav>
