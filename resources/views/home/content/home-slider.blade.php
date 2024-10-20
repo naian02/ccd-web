@@ -8,8 +8,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <h2 style="color: rgb(20, 20, 184);">Where your Imagination Meets our Design.</h2>
-                        <h2>Bringing Your Ideas to Life.</h2>
+                        <h2 style="color: rgb(110, 110, 114);">Where your Imagination Meets our Design.</h2>
+                        <h2 style="color: rgb(20, 20, 184);">Bringing Your Ideas to Life.</h2>
                         <a class="btn btn-red" href="#">Get a Quote</a>
                     </div>
                 </div>
