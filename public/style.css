@@ -194,9 +194,9 @@ input[type=text] {
     z-index: 9;
 }
 .btn {
-    background: #2867de;
+    background-color: #333333;
     border: 0 none;
-    border-radius: 2px;
+    border-radius: 5px;
     color: #ffffff;
     cursor: pointer;
     display: inline-block;
@@ -207,6 +207,10 @@ input[type=text] {
     position: relative;
     text-align: center;
     text-transform: uppercase;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 .btn:hover {
     background: #FF3450;
@@ -214,7 +218,7 @@ input[type=text] {
     text-decoration: none;
 }
 .btn-red {
-    background: #FF3450;
+    background: #333333;
 }
 .btn-red:hover {
     background: #2867de;
@@ -775,7 +779,7 @@ input[type=text] {
 ================================================================== */
 
 .newsletter-section {
-    background: #2867de;
+    background: #747373;
     padding: 50px 0;
 }
 .newsletter-section .title {
@@ -810,7 +814,7 @@ input[type=text] {
 }
 .newsletter-section .search-button .btn:hover {
     background: #fff;
-    color: #ff3450;
+    color: #747373;
 }
 
 /* ==================================================================

@@ -8,9 +8,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <h2 style="color: rgb(110, 110, 114);">Where your Imagination Meets our Design.</h2>
-                        <h2 style="color: rgb(20, 20, 184);">Bringing Your Ideas to Life.</h2>
-                        <a class="btn btn-red" href="#">Get a Quote</a>
+                        <h3 style="color: #333333;">Where your Imagination Meets our Design.</h3>
+                        <h4 style="color: #333333;">Bringing Your Ideas to Life.</h4>
+                        <a class="btn btn-secondary" href="#">Get a Quote</a>
                     </div>
                 </div>
             </div>

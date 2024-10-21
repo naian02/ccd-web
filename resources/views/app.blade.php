@@ -6,7 +6,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>beCharity HTML5 responsive charity theme</title>
+        <title>CCD</title>
 
         <!--Fav and touch icons-->
         <link rel="icon" href="images/favicon.ico">
@@ -14,6 +14,7 @@
         <link rel="apple-touch-icon" sizes="76x76" href="images/apple-touch-icon-76x76.png">
         <link rel="apple-touch-icon" sizes="120x120" href="images/apple-touch-icon-120x120.png">
         <link rel="apple-touch-icon" sizes="152x152" href="images/apple-touch-icon-152x152.png">
+       
 
         <!--Common Styles Plugins-->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -40,6 +41,7 @@
     <body>
         @include('common.header')
         @yield('home')
+        @include('common.news-letter')
         @include('common.footer')
 
         <!--Common JS Plugin-->
@@ -59,6 +61,7 @@
         <script type="text/javascript" src="js/jquery.waypoints.js"></script>
         <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
         <script type="text/javascript" src="js/jquery.counterup.min.js"></script>
+        
 
         <!-- Google Map -->
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCYMloK_kzsasOQXg-xhGxnwvlAU3HTZWg&callback=initMap" async defer></script>

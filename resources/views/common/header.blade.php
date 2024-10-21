@@ -17,24 +17,15 @@
             <div class="row">
                 <div class="col-sm-6 col-md-5 col-lg-4">
                     <div class="phone">
-                        <i class="fa fa-volume-control-phone"></i>+ 215 1256 845
+                        <i class="fa fa-volume-control-phone"></i>+63930 920 7762
                     </div>
                     <div class="email">
-                        <i class="fa fa-envelope"></i>ccd-info.com
+                        <i class="fa fa-envelope"></i>creativecanvad@gmail.com
                     </div>
-                    <a href="donation.html" class="btn btn-red">Donate</a>
+                   
                 </div>
                 <div class="hidden-xs hidden-sm col-md-3 col-lg-4 ">
-                    <form class="top-search" action="#">
-                        <div class="form-group">
-                            <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Search">
-                                <div class="input-group-addon">
-                                    <input type="submit" value="Search">
-                                </div>
-                            </div>
-                        </div>
-                    </form>
+                  <!--to input item -->
                 </div>
                 <div class="hidden-xs col-sm-6 col-md-4 col-lg-4">
                     <div class="social">
@@ -80,7 +71,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img class="retina" src="images/ccd.png" alt="logo"></a>
+                    <a class="navbar-brand" href="{{route ('home.index')}}"><img class="retina" src="images/ccd.png" alt="logo"></a>
                 </div>
                 <div class="collapse navbar-collapse" id="main-navbar">
                     <ul class="nav navbar-nav navbar-left">
