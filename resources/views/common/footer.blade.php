@@ -6,7 +6,7 @@
                 <div class="col-md-3 col-sm-6 footer-widget">
                     <div class="footer-logo">
                         <img class="retina" src="images/ccd.png" alt="logo">
-                        <p>"Welcome to Creative Canvas Designing!</p>
+                        <p>Welcome to Creative Canvas Designing!</p>
                            <p> We're excited to bring your ideas to life with our unique blend of creativity and precision. From bold concepts to stunning masterpieces, our dedicated team is here to transform your vision into reality. Follow us for inspiration, tips, and behind-the-scenes looks at our projects. Let’s create something exceptional together!</p>
                         <div class="footer-social">
                             <a href="#"><i class="fa fa-twitter-square"></i></a>
@@ -34,11 +34,11 @@
                 <div class="col-md-3 col-sm-6 footer-widget">
                     <h3 class="footer-title">Meet our Designers</h3>
                     <ul>
-                        <li><a href="#">Patrick</a></li>
-                        <li><a href="#">Wee</a></li>
-                        <li><a href="#">Eds</a></li>
-                        <li><a href="#"></a></li>
-                        <li><a href="#"></a></li>
+                        <li><a href="#">Patrick Rufo</a></li>
+                        <li><a href="https://www.behance.net/wibalanay">John Louie Balanay</a></li>
+                        <li><a href="#">Eduardo Pereña III</a></li>
+                        <li><a href="#">Eduard C.Rivera</a></li>
+                        <li><a href="#">Naian Dañez Usi</a></li>
                         <li><a href="#"></a></li>
                     </ul>
                 </div>

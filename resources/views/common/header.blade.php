@@ -17,7 +17,7 @@
             <div class="row">
                 <div class="col-sm-6 col-md-5 col-lg-4">
                     <div class="phone">
-                        <i class="fa fa-volume-control-phone"></i>+63930 920 7762
+                        <i class="fa fa-volume-control-phone"></i>+63 930 920 7762
                     </div>
                     <div class="email">
                         <i class="fa fa-envelope"></i>creativecanvad@gmail.com
@@ -29,12 +29,13 @@
                 </div>
                 <div class="hidden-xs col-sm-6 col-md-4 col-lg-4">
                     <div class="social">
-                        <a class="icon-facebook" href="#"><i class="fa fa-facebook-square"></i></a>
+                        <a class="icon-facebook" href="https://www.facebook.com/profile.php?id=61567169319044"><i class="fa fa-facebook-square"></i></a>
                         <a class="icon-twitter" href="#"><i class="fa fa-twitter-square"></i></a>
                         <a class="icon-pinterest" href="#"><i class="fa fa-pinterest-square"></i></a>
                         <a class="icon-google-plus" href="#"><i class="fa fa-google-plus-square"></i></a>
                     </div>
                     <a class="join-top" href="login.html"><i class="fa fa-user-circle"></i>JOIN</a>
+                    <!--
                     <div class="dropdown currency-switchr">
                         <button class="currency-btn" id="currency" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <i class="fa fa-globe"></i>URO
@@ -55,6 +56,7 @@
                             <li><a href="#">GER</a></li>
                         </ul>
                     </div>
+                -->
                 </div>
             </div>
         </div>
@@ -77,7 +79,8 @@
                     <ul class="nav navbar-nav navbar-left">
                         <li><a href="{{route ('home.index')}}">Home</a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <span class="caret"></span></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a>
+                            <!--
                             <ul class="dropdown-menu">
                                 <li class="dropdown dropdown-submenu">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cause</a>
@@ -99,6 +102,7 @@
                                 <li><a href="404.html">404 Page</a></li>
                                 <li><a href="element.html">Element</a></li>
                             </ul>
+                            -->
                         </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Event <span class="caret"></span></a>
