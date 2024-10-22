@@ -2,13 +2,20 @@
 <div class="home-slider">
     <div class="item">
         <div class="slider-image">
-            <img alt="slide" src="images/slider/pic-1.jpg">
+            <!--<video width="100%" height="50%" autoplay muted controls>
+                <source src="images/slider/ccd2.mp4" type="video/mp4">
+               
+              </video>-->
+              <video autoplay muted loop id="myVideo" style=" width: 100%;" playsinline="playsinline" class="lazyload" controls>
+                <source src="images/slider/ccd 3.mp4" type="video/mp4">
+            </video>
+            <!--<img alt="slide" src="images/slider/pic-1.jpg">-->
         </div>
         <div class="slider-content">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <h3 style="color: #333333;">Where your Imagination Meets our Design.</h3>
+                        <h2 style="color: #333333;">Where your Imagination Meets our Design.</h2>
                         <h4 style="color: #333333;">Bringing Your Ideas to Life.</h4>
                         <br><br>
                         <a class="btn btn-secondary" href="#">Get a Quote</a>
@@ -25,8 +32,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <h2>#T</h2>
-                        <p>#</p>
+                        <h2>Every design tells a story</h2>
+                        <h4 style="color: #f4f3f3;">Let us help you tell yours.</h4>
+                        <br><br>
                         <a class="btn btn-red" href="#">Get a Quote</a>
                     </div>
                 </div>

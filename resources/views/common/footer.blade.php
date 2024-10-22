@@ -19,8 +19,7 @@
                 <div class="col-md-3 col-sm-6 footer-widget">
                     <div class="footer-address">
                         <h3 class="footer-title">Office address</h3>
-                        <p>South Pole
-                            <br>Polar Rise</p>
+                        <p>Santa's House North Pole</p>
                         <p>
                             <i class="fa fa-phone"></i>0930 920 7762
                             <br>

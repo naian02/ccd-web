@@ -10,4 +10,9 @@ class linkController extends Controller
     {
         return view ('home.index');
     }
+
+    public function teams()
+    {
+        return view ('teams.index');
+    }
 }

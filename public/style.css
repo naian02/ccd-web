@@ -497,7 +497,7 @@ input[type=text] {
 .home-slider .item {
     position: relative;
     overflow: hidden;
-    height: 550px;
+    height: 800px;
 }
 .slider-image > img {
     height: 100%;

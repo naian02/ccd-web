@@ -34,7 +34,7 @@
                         <a class="icon-pinterest" href="#"><i class="fa fa-pinterest-square"></i></a>
                         <a class="icon-google-plus" href="#"><i class="fa fa-google-plus-square"></i></a>
                     </div>
-                    <a class="join-top" href="login.html"><i class="fa fa-user-circle"></i>JOIN</a>
+                    <a class="join-top" href="login.html"><i class="fa fa-user-circle"></i>SUBCRIBE</a>
                     <!--
                     <div class="dropdown currency-switchr">
                         <button class="currency-btn" id="currency" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -104,13 +104,16 @@
                             </ul>
                             -->
                         </li>
+                        <li><a href="{{route ('teams.index')}}">Our Teams</a></li>
+                         <!--
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Event <span class="caret"></span></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Teams<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="event.html">Event</a></li>
                                 <li><a href="event-details.html">Event Details</a></li>
                             </ul>
                         </li>
+                        -->
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
                             <ul class="dropdown-menu">
