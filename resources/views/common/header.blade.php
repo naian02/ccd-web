@@ -73,14 +73,15 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="{{route ('home.index')}}"><img class="retina" src="images/ccd.png" alt="logo"></a>
+                    <a class="navbar-brand" href="{{route ('home.index')}}"><img class="retina" src="images/ccd.gif" alt="logo"></a>
                 </div>
                 <div class="collapse navbar-collapse" id="main-navbar">
                     <ul class="nav navbar-nav navbar-left">
                         <li><a href="{{route ('home.index')}}">Home</a></li>
-                        <li class="dropdown">
+                        <li><a href="{{route ('about.index')}}">About Us</a></li>
+                        <!--<li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <span class="caret"></span></a>
-                            <!--
+                            
                             <ul class="dropdown-menu">
                                 <li class="dropdown dropdown-submenu">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cause</a>
@@ -102,8 +103,8 @@
                                 <li><a href="404.html">404 Page</a></li>
                                 <li><a href="element.html">Element</a></li>
                             </ul>
-                            -->
-                        </li>
+                            
+                        </li>-->
                         <li><a href="{{route ('teams.index')}}">Our Teams</a></li>
                          <!--
                         <li class="dropdown">

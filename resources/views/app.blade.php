@@ -41,6 +41,7 @@
     <body>
         @include('common.header')
         @yield('home')
+        @yield('about')
         @yield('teams')
         @include('common.news-letter')
         @include('common.footer')

@@ -5,8 +5,8 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6 footer-widget">
                     <div class="footer-logo">
-                        <img class="retina" src="images/ccd.png" alt="logo">
-                        <p>Welcome to Creative Canvas Designing!</p>
+                        <img class="retina" src="images/ccd.gif" alt="logo">
+                        <p>Welcome to Creative Canva Design!</p>
                            <p> We're excited to bring your ideas to life with our unique blend of creativity and precision. From bold concepts to stunning masterpieces, our dedicated team is here to transform your vision into reality. Follow us for inspiration, tips, and behind-the-scenes looks at our projects. Let’s create something exceptional together!</p>
                         <div class="footer-social">
                             <a href="#"><i class="fa fa-twitter-square"></i></a>

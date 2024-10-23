@@ -83,7 +83,7 @@ p {
     line-height: 22px;
 }
 a {
-    color: #FF3450;
+    color: #28282B;
 }
 a:focus,
 a:hover,
@@ -148,11 +148,11 @@ input[type=text] {
     margin-top: 15px;
     padding-bottom: 45px;
     position: relative;
-    text-align: center;
+    text-align: center;s
     text-transform: uppercase;
 }
 .section-title::before {
-    background: #ff3450;
+    background: #28282B;
     bottom: 12px;
     content: "";
     height: 5px;
@@ -179,7 +179,7 @@ input[type=text] {
     width: 30px;
 }
 .section-title i.fa {
-    background: #ff3450;
+    background: #28282B;
     border-radius: 15px;
     bottom: 0;
     color: #fff;
@@ -387,13 +387,13 @@ input[type=text] {
     max-height: 70px;
 }
 .header .main-nav .navbar-default {
-    background-color: #fff;
+    background-color: #28282B;
     border: 0 none;
     border-radius: 0;
     margin: 0;
 }
 .header .main-nav .navbar-left li a {
-    color: #333;
+    color: #CFFF04;
     line-height: 100px;
     padding: 0 18px;
 }
@@ -881,10 +881,10 @@ input[type=text] {
     padding: 0;
 }
 .breadcrumb a {
-    color: #7f7f7f;
+    color: #CFFF04;
 }
 .breadcrumb > .active {
-    color: #ff3450;
+    color: #CFFF04;
 }
 .breadcrumb > li + li::before {
     color: #7f7f7f;
@@ -977,11 +977,11 @@ ul.pagination li a a {
 .about-section .about-single .inner-title {
     border: 1px solid #ffffff;
     border-left: 0;
-    background-color: #2867de;
+    background-color: #CFFF04;
     border-radius: 0px 100px 100px 0px;
     position: absolute;
     font-size: 24px;
-    color: #ffffff;
+    color: #28282B;
     padding: 23px 40px 23px 26px;
     bottom: 60px;
 }
@@ -1017,12 +1017,15 @@ ul.pagination li a a {
     padding-top: 14px;
 }
 .about-feature .media i {
-    color: #FF3450;
+    color: #28282B;
     line-height: 36px;
     font-size: 36px;
 }
 .about-feature .media .feature-title {
-    color: #162A83;
+    color: #CFFF04;
+    background-color: #28282B;
+    border-radius: 5px;
+}
 }
 .gallery-list .single-image {
     padding: 0;
@@ -2226,7 +2229,7 @@ ul.feature-list {
     margin-bottom: 50px;
 }
 .widget .widget-title {
-    background: #2867de;
+    background: #333333;
     color: #ffffff;
     margin: 0;
     padding: 25px 35px;
@@ -2481,11 +2484,18 @@ ul.products {
     padding-right: 3px;
 }
 .product-summary .price-amount {
-    color: #ff3450;
+    border-radius: 5px;
+    background-color: #28282B;
+    
+    color: #CFFF04;
     font-size: 36px;
     font-weight: 700;
     line-height: 36px;
     margin: 25px 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 .product-summary p {}
 .product-summary .quantity {
@@ -2521,8 +2531,10 @@ ul.products {
     overflow: hidden;
 }
 .product-tabs .nav-tabs {
-    background: #2867DE;
-    border-bottom: 1px solid #2867DE;
+    background: #28282B;
+    border-bottom: 1px solid #28282B;
+    border-radius: 5px;
+
 }
 .product-tabs .nav-tabs > li > a {
     border: 0;
@@ -2538,10 +2550,10 @@ ul.products {
 .product-tabs .nav-tabs > li.active > a,
 .product-tabs .nav > li > a:hover,
 .product-tabs .nav > li > a:focus {
-    background: #ff3450;
+    background: #CFFF04;
     border: 0;
     border-radius: 0;
-    color: #fff;
+    color: #000;
 }
 .product-tabs .tab-content {
     border: 1px solid #e7e7e7;

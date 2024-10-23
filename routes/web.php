@@ -19,6 +19,7 @@ Route::get('/', function () {
     return view('app');
 });
 Route::get('/', [LinkController::class, 'home'])->name('home.index');
+Route::get('about', [LinkController::class, 'about'])->name('about.index');
 Route::get('teams', [LinkController::class, 'teams'])->name('teams.index');
 
 Route::get('/dashboard', function () {

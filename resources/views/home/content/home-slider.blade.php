@@ -11,18 +11,7 @@
             </video>
             <!--<img alt="slide" src="images/slider/pic-1.jpg">-->
         </div>
-        <div class="slider-content">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-6">
-                        <h2 style="color: #333333;">Where your Imagination Meets our Design.</h2>
-                        <h4 style="color: #333333;">Bringing Your Ideas to Life.</h4>
-                        <br><br>
-                        <a class="btn btn-secondary" href="#">Get a Quote</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
     </div>
     <div class="item">
         <div class="slider-image">
