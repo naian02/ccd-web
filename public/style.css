@@ -980,9 +980,9 @@ ul.pagination li a a {
     background-color: #CFFF04;
     border-radius: 0px 100px 100px 0px;
     position: absolute;
-    font-size: 24px;
+    font-size: 14px;
     color: #28282B;
-    padding: 23px 40px 23px 26px;
+    padding: 3px 21px 3px 35px;
     bottom: 60px;
 }
 .about-section .about-content {

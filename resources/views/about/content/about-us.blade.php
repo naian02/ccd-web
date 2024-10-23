@@ -9,8 +9,8 @@
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="about-single">
-                    <img src="images/about/1.jpg" alt="about">
-                    <div class="inner-title">Title 1</div>
+                    <img src="images/about/elf-2.png" alt="about">
+                    <div class="inner-title">Casino Game Project</div>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
